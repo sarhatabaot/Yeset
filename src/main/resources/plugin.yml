@@ -1,5 +1,0 @@
-name: Yeset
-version: '${version}'
-main: net.sarhatabaot.yeset.Yeset
-api-version: 1.17
-description: Useful utils, "yeset" - elvish word for begennings
